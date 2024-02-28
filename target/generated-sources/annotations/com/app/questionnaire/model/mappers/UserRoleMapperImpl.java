@@ -4,11 +4,11 @@ import com.app.questionnaire.model.dto.UserRoleDTO;
 import com.app.questionnaire.model.entity.UserRole;
 import java.util.ArrayList;
 import java.util.List;
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-10-11T18:16:35+0300",
+    date = "2024-02-28T23:09:10+0300",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 18.0.2.1 (Oracle Corporation)"
 )
 public class UserRoleMapperImpl implements UserRoleMapper {

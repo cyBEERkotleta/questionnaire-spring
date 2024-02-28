@@ -16,7 +16,7 @@
 	<name>questionnaire</name>
 	<description>Spring Boot project for Java questionnaire website</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>17</java.version>
 		<org.mapstruct.version>1.5.5.Final</org.mapstruct.version>
 	</properties>
 	<dependencies>
